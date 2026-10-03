@@ -1,7 +1,7 @@
 # CS 310H HW1 Maxwell Keyes
 HW1 
 
-[Video](2026-10-02 20-30-56 - Trim - Trim.mp4)
+[Video](HW1Video)
 Note: fire effects replaced by cone because i couldn't get the default package.
 
 [Link to Github Repo](https://github.com/brisingr823/CS-310H-HW1)
